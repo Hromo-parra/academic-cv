@@ -1,2 +1,3 @@
 # academic-cv
-    Academic profile and curriculum vitae — Héctor Manuel Romo-Parra, Ph.D.
+
+Academic homepage of Héctor Manuel Romo-Parra, Ph.D.
